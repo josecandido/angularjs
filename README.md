@@ -1,2 +1,1 @@
-# ReactJS and AngularJS
-Basic app to demonstrate how to use ReactJS visualizations in AngularJS directives
+Web Components con ReactJS y AngularJS
